@@ -46,10 +46,4 @@ Feel free to submit pull requests if you'd like to add more questions or explana
 
 ---
 
-## 📚 License
-
-[MIT License](LICENSE)
-
----
-
 Let me know if you'd like this split into files or enhanced with diagrams, examples, or markdown formatting for a specific platform (GitHub, Notion, etc.).
