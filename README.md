@@ -38,6 +38,40 @@ A curated collection of essential JavaScript interview questions and concepts. T
 * Code snippets and explanations
 * Common gotchas and best practices
 
+### ⚙️ JavaScript Engine Working
+
+* How the JavaScript engine parses and executes code
+* Differences between engines (V8, SpiderMonkey, etc.)
+  
+### 📚 JavaScript Call Stack
+
+* What is the call stack?
+* How function invocation and return works
+* Stack overflow errors and recursion
+
+### 🌐 JavaScript Browser WebAPIs
+
+* What are Web APIs (DOM, setTimeout, fetch, etc.)
+* How the browser interacts with JavaScript
+* Role of the environment in async operations
+
+### 🌀 Task Queue & Microtask Queue
+
+* Event loop explained with examples
+* Difference between task queue (setTimeout, setInterval) and microtask queue (Promises, queueMicrotask)
+* Priority and execution order
+
+### ⏱️ Working with Promises and Timers
+
+* Creating and chaining promises
+* Timers (setTimeout, setInterval) and how they really work with the event loop
+
+### 🎯 Use Case
+
+Interview preparation (Senior/Full Stack JavaScript roles)
+Better debugging and optimization of async code
+Understanding why setTimeout(fn, 0) doesn't run immediately
+
 ---
 
 ## 💡 Contributing
